@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\Examples\RiskManage\obj\Debug\RiskManage.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Examples\RiskManage\obj\Debug\RiskManage.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Examples\RiskManage\bin\Debug\RiskManage.exe.config
+C:\Users\ADMIN\source\repos\Examples\RiskManage\bin\Debug\RiskManage.exe
+C:\Users\ADMIN\source\repos\Examples\RiskManage\bin\Debug\RiskManage.pdb
+C:\Users\ADMIN\source\repos\Examples\RiskManage\obj\Debug\RiskManage.exe
+C:\Users\ADMIN\source\repos\Examples\RiskManage\obj\Debug\RiskManage.pdb
